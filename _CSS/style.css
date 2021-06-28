@@ -12,25 +12,26 @@ body{
 
 .container{
     background-color: rgb(167, 188, 207);
-    display: inline-block;
-    align-items: center;
-    justify-content: center;
-    margin-left: 28%;
-    border-radius: 15px;
-    padding: 25px;
+    height: 420px;
+    width: 300px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 10px;
  
 }
 table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
-  width: 100%;
+  
 }
 
 td, th {
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
+  text-align: center;
+  font-size: 100%;
+  
+
 }
 
 tr:nth-child(even) {
@@ -38,9 +39,7 @@ tr:nth-child(even) {
 }
 h2{
  
-    padding-bottom: 3px;
     display: inline-block;
-    padding: 5px;
     border-radius: 6px;
 }
 
@@ -64,5 +63,7 @@ input,select{
     border-radius: 10px;
     font-size: larger;
 }
+
+
 
 
