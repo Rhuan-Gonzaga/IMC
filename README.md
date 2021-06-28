@@ -1,4 +1,4 @@
 # IMC
 Calculadora IMC, desenolvida com as ferramentas: Html, Css, JavaScript.
 
-link:
+link: https://calculadoraa-imc.netlify.app/
